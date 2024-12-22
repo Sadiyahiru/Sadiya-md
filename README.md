@@ -23,12 +23,12 @@ f'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MANISHA-MD+MADE+IN+SRILANKA+🇱🇰" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+SADEESHA-MD+MADE+IN+SRILANKA+🇱🇰" alt="Typing SVG" /></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src= https://i.imgur.com/LyHic3i.gif /></a>
 
 # 🥷GET YOUR SESSION ID 👇☺️
 
-# 👉[PAIR CODE](https://express-pairing-code2-1.onrender.com//)👈
+# 👉[PAIR CODE](https://webpair-mega-jx81.onrender.com//)👈
 
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
