@@ -11,7 +11,7 @@ f'/></a><a><img src='img src="https://i.imgur.com/dBaSKWF.gif'/></a>
 
 </p>
 <p align="center"> 
-    <img alt=Support height="390" src="https://files.catbox.moe/stxzru.jpg">
+    <img alt=Support height="390" src="https://i.ibb.co/wdwNN0R/0cc16fb80f7be4f3.jpg">
  
  <a><img src='<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
