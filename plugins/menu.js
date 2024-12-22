@@ -95,7 +95,7 @@ ${menu.tools}
 *🐼ꜱᴀᴅɪʏᴀ_ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ʜɪʀᴜꜱʜᴀɴ🐼*
 `
 
-return await conn.sendMessage(from,{image: {url: `https://files.catbox.moe/stxzru.jpg`},caption:madeMenu},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/wdwNN0R/0cc16fb80f7be4f3.jpg`},caption:madeMenu},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`Error`)
